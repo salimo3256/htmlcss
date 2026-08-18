@@ -5,11 +5,11 @@
 <p>And here is a the link of his blog</p>
 
 
-(li)<a> https://assoudi.blog</a>
+<a> https://assoudi.blog</a>
 
 
 <p>
 by looking a this project you will learn :
-How to put links and pictures,,videos and stuff.
-HOw to pu titles and more  
+(li)How to put links and pictures,,videos and stuff.
+(li)HOw to pu titles and more  
 </p>
